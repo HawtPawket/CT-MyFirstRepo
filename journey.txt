@@ -1,5 +1,5 @@
 my favorite moment so far is when i finally figured out how to use git and github 
 at first nothing would post to github. it would show the file but not the code in the file. 
-then i ralised i never svaed the code to begin with >.<
+then i realised i never saved the code to begin with >.<
 
 so far my favorite editor is VS but its the only one we have really used so far.
